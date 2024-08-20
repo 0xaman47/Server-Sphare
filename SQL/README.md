@@ -1,5 +1,5 @@
-# 18CSC303J-DBMS-LAB
-[![Hits](https://hits.sh/github.com/VikashPR/DBMS.svg?extraCount=2578)](https://hits.sh/github.com/VikashPR/DBMS/)
+# SQL-LAB
+[![Hits](https://github.com/0xaman47/Server-Sphare/blob/main/SQL/README.md)](https://hits.sh/github.com/0xaman47/SQL/)
 
 ![AWS RDS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -28,17 +28,7 @@
 | 12 | PL/SQL Functions | [View➚](./Ex-12.md) |
 | 13 | PL/SQL Cursors | [View➚](./Ex-13.md) |
 | 14 | Built-in Exception | [View➚](./Ex-14.md) |
-| 15 | PL/SQL Triggers | [View➚](./Ex-15.md) |
-
-
-[Checkout this repo if you face any error in this codes](https://github.com/VikashPR/DBMS_LAB)
-
-## More contributions by the same author 🚀
-| Subject Code | Subject Name| Repo Link |
-| -- | -- | -- |
-| 18CSC305J-AI | Artificial Intelligence | [View➚](https://github.com/VikashPR/18CSC305J-AI) | 
-| 18CSC304J-CD | Compiler Design | [View➚](https://github.com/VikashPR/18CSC304J-CD) | 
-| 18CSE316J-DEVOPS | Essentials in Cloud and Devops | [View➚](https://github.com/VikashPR/18CSE316J-DEVOPS) | 
+| 15 | PL/SQL Triggers | [View➚](./Ex-15.md) | 
 
 ## Credit for being partners in crime 
 
